@@ -1,1 +1,2 @@
-# car-red
+# synchronousBallMovement
+Ball moving synchronously
